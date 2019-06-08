@@ -8,7 +8,7 @@ Java Graphics : Swing
 ***************************************************
 
 Instructions
-- Open Server Code & RUN The Server Code
+- Open Server Code & Run The Server Code FIRST
 - After Server Code Is Running, Open Client Code
 - Client Is Compatible With Parallel run ( Multiple Clients At Once Can Be Open )
 - Interactions Will Than Be Performed With CLients & The Server
