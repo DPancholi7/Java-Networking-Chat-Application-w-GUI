@@ -8,6 +8,7 @@ Java Graphics : Swing
 ***************************************************
 
 Instructions
+- *Firewall Needs To Allow Communication Between Devices (Ports)*
 - Open Server Code & Run The Server Code FIRST
 - After Server Code Is Running, Open Client Code
 - Client Is Compatible With Parallel run ( Multiple Clients At Once Can Be Open )
