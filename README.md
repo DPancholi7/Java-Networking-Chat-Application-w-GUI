@@ -1,5 +1,5 @@
 Author & Developer : Dhvani Pancholi
-( Team Project )
+
 
 Programming Language : Java
 Networking Chat Application w/ GUI
@@ -17,9 +17,6 @@ Instructions
 
 ***************************************************
 
-This Program Cannot Be Submitted Without Changes
-Changes Must Be Made To Use This Code!
-Atleast 40 % Of The Code Must Be Changed!
 
 ***************************************************
 
